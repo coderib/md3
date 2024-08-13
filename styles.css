@@ -122,9 +122,7 @@ p>a, {
  /*tablet or medium*/
 @media (min-width: 576px) and (max-width: 767px) {
    /*header*/
-   #nav-list{
-    display: none;    
-}
+
 /*body*/
 .box1,.box2{
     width: 100%; 
